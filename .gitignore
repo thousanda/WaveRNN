@@ -1,2 +1,9 @@
 __pycache__/
 /config.py
+
+/log
+/model_checkpoints
+/model_outputs
+
+/data
+/scripts/log
