@@ -17,7 +17,7 @@ fi
 {
     date
 
-    # Create symbolic links of waf files
+    # Create symbolic links of wav files
     for num in $(seq -f %03g 100); do
         spkr="jvs$num"
         echo -n "Making symbolic links of $spkr..."
